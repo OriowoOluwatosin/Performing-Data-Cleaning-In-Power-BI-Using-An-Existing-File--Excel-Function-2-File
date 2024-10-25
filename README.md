@@ -1,6 +1,6 @@
 # Performing-Data-Cleaning-In-Power-BI-Using-An-Existing-File--Excel-Function-2
 
-### Projrect Title :  
+### Project Title :  
 **Data Cleaning Using Power BI**
 
 ### Project Overview : 
