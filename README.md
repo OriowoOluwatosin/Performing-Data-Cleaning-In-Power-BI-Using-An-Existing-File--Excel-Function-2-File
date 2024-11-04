@@ -11,6 +11,10 @@ This data analysis Power BI project is to analyze and generate a clean file from
   1. Removing Duplicates
   2. Splitting Columns
   3. Merging Columns
+ 
+  ### Data Visualizing
+
+  
 
   ### Data Sources
 The primary data source used here is a template from Cleaning Sheet 1 of the Excel Function 2 file that was discussed in class and then to continue the cleaning of sheet 2-4 Using Power BI
